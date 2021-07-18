@@ -19,5 +19,5 @@ Load the data you receive into a Pandas DataFrame.
 
 ### Change Log
 
-1.1: Setup and Initialize repo - 17 Jul 2021
+1.1: Setup and Initialize repo - 17 Jul 2021  
 1.2: Feature Tasks - 18 Jul 2021
